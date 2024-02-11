@@ -1,0 +1,17 @@
+{
+  "name": "args-cmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "current": "./date.js"
+  },
+  "scripts": {
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
